@@ -10,7 +10,7 @@
             {
           "category": "MisfitTech",
           "name": "MisfitTech SAMD Boards",
-          "url": "https://github.com/yangjion/mis/blob/master/misfittech_samd-1.0.0.tar.bz2",
+          "url": "https://github.com/Misfittech/arduino-board-index/raw/master/boards/misfittech_samd-1.0.0.tar.bz2",
           "checksum": "SHA-256:56a29c6b51540aa032fb18977258f7ce110d30c45a22f9acfd8f81f744eb9041",
           "help": {
             "online": "http://misfittech.net"
@@ -45,7 +45,7 @@
               "name": "CMSIS"
             }
           ],
-          "size": "12852574"
+          "size": "10301497"
         }
       ],
       "tools": [],
